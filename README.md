@@ -75,9 +75,12 @@ This project analyzes a real-world Brazilian e-commerce dataset to uncover insig
 
 ---
 
+
 ## 🚀 Conclusion
 
 This project demonstrates how data can be used to identify operational inefficiencies and improve customer satisfaction in an e-commerce business.
+
+<img width="1166" height="657" alt="Screenshot 2026-04-27 092747" src="https://github.com/user-attachments/assets/75599d38-b235-4c0a-ac23-3fadbb8fc7aa" />
 
 ---
 
